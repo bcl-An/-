@@ -24,7 +24,7 @@
 3、执行选课过程，并输出结果；<br>
 4、执行退课过程，并输出结果。<br>
 ## 流程图
-![列表lct.png图片]( "流程图") 
+![列表lct.png图片](https://github.com/bcl-An/course/blob/main/lct.png "流程图") 
 ## 核心代码
 ```JAVA
 cou1.setTeacher(tea1.name);
